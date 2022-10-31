@@ -6,7 +6,7 @@
 
 ## 导航
 
-- [text2sql](nlp/text2sql)
+- [text2sql](tree/master/nlp/text2sql)
   
 ## 沐神的读论文方法
 
